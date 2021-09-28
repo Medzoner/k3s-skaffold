@@ -4,8 +4,8 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "production": "node src/index.js",
-    "development": "nodemon --inspect=0.0.0.0:9229 src/index.js"
+    "production": "node index.js",
+    "development": "nodemon --inspect=0.0.0.0:9229 index.js"
   },
   "dependencies": {
     "express": "^4.16.4"

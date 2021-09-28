@@ -19,4 +19,4 @@ sudo install skaffold /usr/local/bin/
 # or
 #docker run gcr.io/k8s-skaffold/skaffold:latest skaffold -h
 
-skaffold init --force
+#skaffold init --force
